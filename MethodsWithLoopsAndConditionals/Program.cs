@@ -59,7 +59,7 @@ namespace MethodsWithLoopsAndConditionals
 
         }
         //need to determine if its negative or positive
-        private static bool IsPositive(int num1)
+        public static bool IsPositive(int num1)
         {
             
             if (num1 > 0)
@@ -102,7 +102,7 @@ namespace MethodsWithLoopsAndConditionals
             DisplayMultiplicationTable(number);
         }
 
-        static void DisplayMultiplicationTable(int number)
+        public static void DisplayMultiplicationTable(int number)
         {
             Console.WriteLine($"Multiplication table for {number}:");
             for (int i = 1; i <= 12; i++)

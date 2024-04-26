@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acwr2\\desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {}
+    "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acwr2\\desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {
+    "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acwr2\\desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
+        "projectUniqueName": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
         "projectName": "MethodsWithLoopsAndConditionals",
-        "projectPath": "C:\\Users\\acwr2\\desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
+        "projectPath": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
         "packagesPath": "C:\\Users\\acwr2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acwr2\\desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\obj\\",
+        "outputPath": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acwr2\\AppData\\Roaming\\NuGet\\NuGet.Config",

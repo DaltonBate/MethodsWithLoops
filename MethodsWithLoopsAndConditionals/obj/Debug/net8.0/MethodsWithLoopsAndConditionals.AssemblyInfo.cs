@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodsWithLoopsAndConditionals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78e96546d603f955758199332cc770fc4af55d7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dd599078a6d51244eecd04ad602b1b09f1ea9c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodsWithLoopsAndConditionals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodsWithLoopsAndConditionals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

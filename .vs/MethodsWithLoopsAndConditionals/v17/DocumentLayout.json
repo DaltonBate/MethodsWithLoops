@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 366,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -24,10 +24,20 @@
               "RelativeDocumentMoniker": "MethodsWithLoopsAndConditionals\\Program.cs",
               "ToolTip": "C:\\Users\\acwr2\\OneDrive\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\Program.cs",
               "RelativeToolTip": "MethodsWithLoopsAndConditionals\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T20:39:25.01Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
